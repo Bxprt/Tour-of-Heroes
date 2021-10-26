@@ -14,3 +14,9 @@ export class MessageService {
     this.messages = [];
   }
 }
+// FIFO = F + IFO
+// LIFO = L + IFO
+// IFO = In First Out
+// F = First
+// L = Last
+// ARRAY = FIFO
