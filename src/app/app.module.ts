@@ -17,11 +17,11 @@ import { DashboardComponent } from './dashboard/dashboard.component';
     MessagesComponent,
     DashboardComponent
   ],
-    imports: [
-        BrowserModule,
-        AppRoutingModule,
-        FormsModule
-    ],
+  imports: [
+    BrowserModule,
+    AppRoutingModule,
+    FormsModule
+  ],
   providers: [],
   bootstrap: [AppComponent]
 })
